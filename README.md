@@ -108,7 +108,7 @@ XLOOKUP, SUMPRODUCT, SWITCH, IF, SUMIFS, COUNTIF, TEXT, Remove Duplicates, data 
 ## Files
 
 - `fashion_retail_project.xlsx`: full workbook (data, cleaning columns, Issues Log, pivots, Dashboard, Insights)
-- `images/`: dashboard screenshot
+- `dashboard.png`: dashboard screenshot
 
 ---
 Author: Aishwarya M
