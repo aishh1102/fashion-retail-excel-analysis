@@ -2,7 +2,7 @@
 
 An end-to-end data analysis project in Excel: cleaning a messy multi-table dataset, building calculated columns, analysing sales with PivotTables, and presenting the findings in a dashboard with business recommendations.
 
-![Dashboard](images/dashboard.png)
+![Dashboard](dashboard.png)
 
 ## Business problem
 
